@@ -8,17 +8,6 @@
 
 ---
 
-## 📌 Table of Contents  
-- [Project Overview](#-project-overview)  
-- [Key Features](#-key-features)  
-- [Class Diagram](#-class-diagram)  
-- [Installation](#-installation)  
-- [How to Run](#-how-to-run)  
-- [Contributors](#-contributors)  
-- [License](#-license)  
-
----
-
 ## 🚀 Project Overview  
 This Java-based ISP Management System demonstrates **core OOP principles** including:  
 ✔ Encapsulation (Private fields + Getters/Setters)  
